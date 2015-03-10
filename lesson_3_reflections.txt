@@ -28,4 +28,4 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    Changes in a seperate branch would make sense on a project with multiple contributers. Seperate branches allow more control over the master branch, helping to ensure one contributor's commit doesn't break other contributors' commits. 
